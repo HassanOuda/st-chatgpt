@@ -3,7 +3,7 @@ Streamlit app for chatGPT for connecting to your own LLM and your own function/a
 
 ## Screenshot
 
-![alt text](assets\app.png "App")
+![alt text](assets/app.png "App")
 
 ## LLMs
 
