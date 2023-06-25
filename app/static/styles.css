@@ -1,0 +1,56 @@
+.chat-row {
+    display: flex;
+    margin: 5px;
+    width: 100%;
+}
+
+.css-1544g2n {
+    padding: 1rem 1rem 1.5rem;
+}
+
+.css-1y4p8pa {
+    padding: 1rem 1rem 1rem;
+}
+
+.stChatFloatingInputContainer {
+    padding-bottom: 1rem;
+}
+
+.stMarkdown {
+    padding-bottom: 1rem;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+.chat-bubble {
+    font-family: "Source Sans Pro", sans-serif, "Segoe UI", "Roboto", sans-serif;
+    border: 1px solid transparent;
+    padding: 5px 10px;
+    margin: 0px 7px;
+    max-width: 70%;
+}
+
+.ai-bubble {
+    background: rgb(91,91,91);
+    border-radius: 10px;
+}
+
+.human-bubble {
+    background: rgb(0, 84, 154); 
+    color: white;
+    border-radius: 20px;
+}
+
+.chat-icon {
+    border-radius: 5px;
+}
