@@ -1,9 +1,8 @@
 # st.chatgpt
 Streamlit app for chatGPT for connecting to your own LLM and your own function/agent
 
-## Screenshot
-
-![alt text](assets/app.png "App")
+## Demo
+https://github.com/HassanOuda/st.chatgpt/assets/2914618/a6b9b9c9-619e-4f3c-9c9c-310f8c1090cb
 
 ## LLMs
 
